@@ -1,0 +1,10 @@
+{
+  "state": {
+    "op": "config_gate",
+    "store_url": "gliderol.myshopify.com",
+    "access_token": "shpat_example_token"
+  },
+  "context": {
+    "api_version": "2024-01"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "state": {
+    "op": "normalize_products",
+    "store_url": "gliderol.myshopify.com",
+    "products": [
+      {
+        "id": 8801,
+        "title": "Roller Door Motor",
+        "body_html": "<p>Quiet 24V motor</p>",
+        "handle": "roller-door-motor",
+        "variants": [
+          {"price": "249.00", "inventory_quantity": 12},
+          {"price": "279.00", "inventory_quantity": 0}
+        ]
+      },
+      {
+        "id": 8802,
+        "title": "Sold-Out Remote",
+        "handle": "sold-out-remote",
+        "variants": [
+          {"price": "19.00", "inventory_quantity": 0}
+        ]
+      }
+    ]
+  },
+  "context": {}
+}
